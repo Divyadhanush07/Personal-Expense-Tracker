@@ -22,17 +22,5 @@ A simple command-line program to track personal expenses. This program allows us
    ```bash
    git clone https://github.com/Divyadhanush07/expense-tracker.git
 
-## UI
 
-This is the User-Interface when you run the code:
-
-
-Expense Tracker Menu:
-1. Log Expense
-2. View Summary by Category
-3. View Monthly Summary
-4. Export Expenses
-5. Exit
-
-Enter choice: 
 
