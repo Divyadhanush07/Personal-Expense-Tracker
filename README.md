@@ -33,9 +33,5 @@ Expense Tracker Menu:
 3. View Monthly Summary
 4. Export Expenses
 5. Exit
-Enter choice: 1
-Enter amount: 25.50
-Enter category: Groceries
-Enter date (YYYY-MM-DD) or leave blank for today:
-Logged: $25.50 for Groceries on 2023-10-01
+Enter choice: 
 
