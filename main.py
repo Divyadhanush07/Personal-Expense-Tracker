@@ -88,7 +88,7 @@ def menu():
         elif choice == '4':
             export_expenses()
         elif choice == '5':
-            print("Goodbye!")
+            print("Goodbye!!!")
             break
         else:
             print("Invalid choice. Please try again.")
